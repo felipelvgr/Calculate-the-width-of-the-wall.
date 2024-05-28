@@ -1,0 +1,4 @@
+import math
+num = int(input("Type it a number:"))
+root = math.sqrt(num)
+print("The root of {} is equal to {}".format(num, root))
